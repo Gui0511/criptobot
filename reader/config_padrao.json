@@ -1,0 +1,27 @@
+{
+  "rsi": {
+    "ativar": true,
+    "periodo": 14,
+    "compra_limite": 35,
+    "venda_limite": 65
+  },
+  "macd": {
+    "ativar": true,
+    "fast": 12,
+    "slow": 26,
+    "signal": 9
+  },
+  "mms": {
+    "ativar": true,
+    "periodo": 20
+  },
+  "volume": {
+    "ativar": true,
+    "periodo": 20
+  },
+  "estocastico": {
+    "ativar": true,
+    "k": 14,
+    "d": 3
+  }
+}
